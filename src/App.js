@@ -1,5 +1,6 @@
 import BMICalculator from "./Component/BMICalculator/BMICalculator.jsx";
 import MusicPlayer from "./Component/MusicPlayer/MusicPlayer.jsx";
+import TimeLeft from "./Component/timeLeft/timeLeft.jsx";
 
 function App() {
   return (
@@ -18,6 +19,9 @@ function App() {
           }}
         >
           <MusicPlayer />
+        </div>
+        <div>
+          <TimeLeft />
         </div>
       </section>
     </>
