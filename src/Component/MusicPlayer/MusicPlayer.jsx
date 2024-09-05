@@ -89,7 +89,7 @@ const MusicPlayer = () => {
     >
       <Row justify="center">
         <Col>
-          <Image width={200} src={playList[currentTrack].imgSrc} />
+          <Image width={300} src={playList[currentTrack].imgSrc} />
           <Title level={4} style={{ color: "white" }}>
             {playList[currentTrack].title}
           </Title>
