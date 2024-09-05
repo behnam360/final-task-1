@@ -25,10 +25,10 @@ const BMICalculator = () => {
   const status = getStatus(bmi);
 
   return (
-    <Layout className="container">
+    <Layout style={{ backgroundColor: "#17202a" }} className="container">
       <Header
         className="header"
-        style={{ backgroundColor: "#17202a", padding: "20px" }}
+        style={{ backgroundColor: "#6f92fa30", padding: "20px" }}
       >
         <Row justify="space-between" align="middle">
           <Col>
