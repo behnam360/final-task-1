@@ -1,6 +1,6 @@
 import { Form, Input, Button, message } from "antd";
 
-import "./LoginForm.css"; // فایل CSS برای استایل‌های خاص
+import "./LoginForm.css"; 
 
 const LoginForm = () => {
   const [form] = Form.useForm();
