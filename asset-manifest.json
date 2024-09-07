@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/final-task-1/static/css/main.757c3ff8.css",
+    "main.js": "/final-task-1/static/js/main.0752731d.js",
+    "static/js/453.10d6dd57.chunk.js": "/final-task-1/static/js/453.10d6dd57.chunk.js",
+    "static/media/03 Darkness to Light.mp3": "/final-task-1/static/media/03 Darkness to Light.42c7ad331389fa42281b.mp3",
+    "static/media/01 Hearts Entwined.mp3": "/final-task-1/static/media/01 Hearts Entwined.2d281c8acbcd0114783e.mp3",
+    "static/media/02 Peace.mp3": "/final-task-1/static/media/02 Peace.da5f447b415639750898.mp3",
+    "static/media/img2.jpg": "/final-task-1/static/media/img2.60bb498a4678e9b9e235.jpg",
+    "static/media/img3.jpg": "/final-task-1/static/media/img3.3203982306f03dd838b6.jpg",
+    "static/media/img1.jpg": "/final-task-1/static/media/img1.57fa31472d40390d52ce.jpg",
+    "index.html": "/final-task-1/index.html",
+    "main.757c3ff8.css.map": "/final-task-1/static/css/main.757c3ff8.css.map",
+    "main.0752731d.js.map": "/final-task-1/static/js/main.0752731d.js.map",
+    "453.10d6dd57.chunk.js.map": "/final-task-1/static/js/453.10d6dd57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.757c3ff8.css",
+    "static/js/main.0752731d.js"
+  ]
+}
